@@ -1,0 +1,58 @@
+header
+ {background-color: palevioletred;
+    padding:10px 5px 15px 
+}
+
+div {
+
+    background-color: palevioletred;
+        
+}
+p {
+   font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    margin: 0;
+
+    font-size: 18px;
+    text-align: center;
+   
+}
+h2 { font-family: cursive;
+    color: blue;}
+
+h3 {
+    color:cornflowerblue; 
+}
+p.span {
+        color: red;
+}
+footer {
+    padding: 10px;
+    background-color: rgb(228, 240, 161);
+}
+li  {list-style-type: none;
+}
+
+.facebook {
+    color: green;
+    
+}
+.Insta {
+    color:red
+}
+.Linked {
+    color: seagreen;
+}
+article {
+    border: 17px solid #bcc53e;
+    border-radius: 500px;
+     margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    background-color: #d1c131;
+    width: 100px
+}
+
+    
+
